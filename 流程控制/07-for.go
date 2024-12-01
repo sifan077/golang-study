@@ -27,4 +27,9 @@ func main() {
 	}
 	fmt.Println("loop end")
 
+	// for range
+	for i := 0; i < 10; i++ {
+		fmt.Println(i)
+	}
+
 }
